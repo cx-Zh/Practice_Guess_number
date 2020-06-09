@@ -1,0 +1,28 @@
+#1 函数GuessNumberGame
+输入
+	game.answer : {int}
+	output : string (xAxB)
+	check_output: bool
+输出
+	game.answer : {int}
+	output : string (xAxB)
+
+#2 函数GenerateAnswer
+输入
+输出
+	game.answer : {int}
+
+#3 函数CheckInvalidInput
+输入
+	game.answer : {int} 
+输出
+	check_output: bool
+
+#4 函数CountAAndB
+输入
+	game.answer : {int} 
+输出
+	output : string (xAxB)
+
+#5函数 AddInstruction
+
